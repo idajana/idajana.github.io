@@ -8,7 +8,10 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+I am a Research Assistant at FZI (Forschungszentrum Informatik). I have experience in Machine Learning, Computer Vision and Robotics. My last projects involve applications of Deep Learning in Autonomous driving (Adversarial Attacks on end-to-end driving, Semantic Segmentation with Mixtures of Experts) and Generative Video Prediction (generative models). 
+
+I am looking for new opportunities in these areas and I am mainly interested in positions in Berlin. I would love to work in a dynamic environment that challenges me not only in technical skills, but enables me to improve every day in teamwork and soft skills, as well.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
