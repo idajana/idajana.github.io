@@ -19,6 +19,9 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - documentation/partials/**                           # For Documentation Only
+  - pages/blog.html
+  - documentation/elements.html
+  - documentation/docs.md
  # - pages/index.md
 
 
