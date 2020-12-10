@@ -1,10 +1,10 @@
 # Site settings
-title: Cristian Mitroi's resume
+title: Dajana Ivkic - Resume
 description: >- # this means to ignore newlines until "baseurl:"
-  Software Developer. Passionate about the intersection between technology, creativity, and culture.
+  Deep Learning Research Assistant.
 baseurl: "/resume"  # the subpath of your site, e.g. /blog
-url: "cristianmtr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: cristianmtr/resume
+url: "idajana.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: idajana/resume
 
 
 # Build settings
@@ -15,11 +15,11 @@ plugins:
 
 # Author Info
 author:
-  name     : Cristian Mitroi
-  image    : assets/face.jpg
-  email    : cristi dot mtr at gmail dot com
-  github   : cristianmtr
-  linkedin : cristianmitroi
+  name     : Dajana Ivkic
+  image    : assets/profilna.png
+  email    : ivkic dot dajana at gmail dot com
+  github   : idajana
+  linkedin : dajana-ivkic-29549311a
 
 
 # Collections

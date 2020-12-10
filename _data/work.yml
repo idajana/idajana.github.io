@@ -1,30 +1,16 @@
-- title: AI Engineer, Jina AI
-  from: 2020, Novemeber
+- title: Research Assistant Deep Learning in Autonomous Driving, FZI Forschungszentrum Informatik
+  from: 2020, April
   to: present
-  description: Jina AI is a Neural Search Company. It provides the cloud-native neural search solution powered by AI and deep learning. 
+  description: What I work with<br>+ Python<br>+ Computer Vision (Object tracking, Face detection) <br>+ Tensorflow/PyTorch<br>+ ROS<br>+ Adversarial attacks on NNs <br>+ <br>What I work on<br>+ patch-based Adversarial Attacks on End-to-end driving;<br>+ Implemented and improved attacks with PGD which were successful in causing significant errors in driving predictions made by NNs ;<br>+ Developed a defense against proposed patch-based attacks and improving robustness of NNs-;<br>+ Implemented face recognition in ROS for a robot-arm environment for a project in assuring safety in Human-Robot collaboration against adversarial attacks;
 
+  title: Student Research Assistant, FZI Forschungszentrum Informatik
+  from: 2019, June
+  to: 2020, March
+  description: What I work with<br>+ Python<br>+ Semantic Segmenation<br>+ Tensorflow<br>+ ROS<br> What I work on<br>+ Training and evaluation of different ResNet-like CNN experts on disjoint data subsets (e.g. highway expert, city expert, etc.) for semantic segmentation tasks;<br>+ implementation and evaluation of various gating networks which combined the experts to improve semantic segmentation performance
+    in the scope of a project with Volkswagen;<br>
 
-- title: Machine Learning Engineer, Alpaca GmbH
-  from: 2019, August
-  to: 2020, October
-  description: What I work with<br>+ Python<br>+ Rasa<br>+ NLP<br>+ PostgreSQL<br>+ Machine Learning<br>+ Docker<br>+ ElasticBeanstalk<br><br>What I work on<br>+ Automated qualification process of prospective renters, using a conversational AI agent;<br>+ Quantified business achievements, by extracting and analyzing data from chatbot conversations with users;<br>+ Optimized chatbot understanding of human text, by analyzing and annotating dataset of conversations;<br>+ Implementation of business logic in backend;<br>+ Improved collaboration processes for technology team, to enhance cross-team knowledge sharing;<br>+ Scaling of business infrastructure with AWS Elastic Beanstalk and Docker;
+- title: Python / Data engineering intern, AVL-AST
+  from: 2018, February
+  to: 2018, September
+  description: What I worked with<br>+ Python<br>+ Spark<br>+ Hadoop<br>+ PostgreSQL<br>+ <br>+ Flask REST APIs<br><br>What I worked on<br>+ worked on a project with Big Data for fleet management.<br>+  developed an app for data visualization <br>+ various tasks in data integration and data conversion
 
-
-- title: Collaborator (Machine Learning Engineer), La Kriss Kross
-  from: 2017, February
-  to: 2019, February
-  description: What I worked with<br>+ Python<br>+ Keras/Tensorflow<br>+ C++<br>+ Arduino<br>+ Max for Live<br>+ synthesizers<br><br>What I worked on<br>+ enhanced art projects with Machine Learning, in music and visuals.<br>+ oversaw software side of artist’s projects (requirements gathering, research, implementation, debugging)<br>+ built novelty musical instrument to be used in art performances
-
-
-
-- title: Teaching Assistant, University of Copenhagen
-  from: 2018, September
-  to: 2019, January
-  description: '+ Teaching Assistant for "Scientific Programming” master’s level course, an introduction to programming in Python, with a focus on data science and machine learning.<br>+ Guided exercise sessions for students<br>+ Offered guidance and explanations of concepts<br>+ Graded student assignments.<br>+ Learned that “you do not really understand something unless you can explain it to first semester ML students.”<br><br>Course description:  https://kurser.ku.dk/course/HIOK0002EU'
-
-
-
-- title: Software Developer, Deltek, Denmark
-  from: 2014
-  to: 2018
-  description: What I worked with<br>+ Python<br>+ Angular<br>+ TypeScript<br>+ Jenkins<br>+ Linux<br>+ Windows Server<br><br>What I worked on<br>+ enhanced the build and deployment tools for the Continuous Integration system, using Python and Jenkins.<br>+ developed new features and functionality across our modern web client, frontend (Angular, Typescript) and backend (Java)<br>+ maintenance and configuration of servers (Linux, Windows, RHEL, Solaris).<br>+ debugged errors related to installation and configuration, in close collaboration with developers.<br>+ automated testing flow for developers, with framework for GUI tests
