@@ -46,6 +46,3 @@
 .skill-bar.skill-bar-light { background: $light; }
 .skill-bar.skill-bar-dark { background: $dark; }
 
-@for $i from 0 through 100 {
-    .skill-#{$i} { width: percentage($i/100); }
-}
