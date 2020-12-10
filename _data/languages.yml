@@ -1,0 +1,17 @@
+- name: Python
+  percentage: 
+  color: dark
+
+- name: SQL
+  percentage: 
+  color: info
+
+- name: Linux
+  percentage: 
+  color: blue
+
+- name: C++
+  percentage: 
+  color: success
+
+

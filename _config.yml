@@ -1,80 +1,35 @@
-### Site Settings ###
-title               : Dajana Ivkic
-description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : idajana.github.io                    # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : idajana/idajana.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
+# Site settings
+title: Dajana Ivkic - Resume
+description: >- # this means to ignore newlines until "baseurl:"
+  Deep Learning Research Assitant.
+baseurl: "/resume"  # the subpath of your site, e.g. /blog
+url: "idajana.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: idajana/resume
 
 
-### Plugins ###
+# Build settings
+markdown: kramdown
 plugins:
   - jemoji
 
 
-### Navbar Settings ###
-nav_exclude:                                            # The following paths are excluded from navbar
-  - pages/tags.html
-  - pages/404.html
-  - documentation/partials/**                           # For Documentation Only
-  - pages/blog.html
-  - documentation/elements.html
-  - documentation/docs.md
-  - pages/index.md
-
-
-### Author Info ###
+# Author Info
 author:
-  name              : Dajana Ivkic
-  image             : https://i.ibb.co/Pr0Gv4r/profilna.png
-#  behance           : your_username
-# dribbble          : your_username
-  email             : ivkic.dajana@gmail.com
-#  facebook          : your_username
-  github            : idajana
-# gitlab            : your_username
-# instagram         : your_username
-# kaggle            : your_username
-  linkedin          : dajana-ivkic-29549311a
- # medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
-#  twitter           : your_username
-# vimeo             : your_username
-# youtube           : your_channel_name
-# keybase           : your_username
+  name     : Dajana Ivkic
+  image    : assets/profilna.png
+  email    : ivkic dot dajana at gmail dot com
+  github   : idajana
+  linkedin : dajana-ivkic-29549311a
 
 
-### Posts ###
-permalink: /blog/:title
-
-
-### Collections ###
+# Collections
 collections:
   projects:
     output: true
     permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
 
 
-### Disqus ###
-disqus: your-short-name-disqus                          # Your website Shortname on disqus
-
-
-### Analytics ###
-analytics:
-  enabled: false                                        # Set true to enable analytics
-  google:
-    tracking_id: your-google-tracking-id
-
-
-### Defaults for collections ###
+# Default values for collections
 defaults:
   - scope:
       path: ""
@@ -82,9 +37,15 @@ defaults:
     values:
       layout: "page"
 
-### Exclude from processing ###
+
+# Posts default Permalink
+permalink: articles/:title
+
+
+# Exclude from processing.
 exclude:
-  - README.md
-  - CONTRIBUTING.md
-  - LICENSE
-  - "*.log"
+- README.md
+- CONTRIBUTING.md
+- LICENSE
+- Gemfile
+- Gemfile.lock
