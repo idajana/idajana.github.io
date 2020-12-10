@@ -1,16 +1,16 @@
 - title: Research Assistant Deep Learning in Autonomous Driving, FZI Forschungszentrum Informatik
   from: 2020, April
   to: present
-  description: What I work with<br>+ Python<br>+ Computer Vision (Object tracking, Face detection) <br>+ Tensorflow/PyTorch<br>+ ROS<br>+ Adversarial attacks on NNs <br>+ <br>What I work on<br>+ patch-based Adversarial Attacks on End-to-end driving;<br>+ Implemented and improved attacks with PGD which were successful in causing significant errors in driving predictions made by NNs ;<br>+ Developed a defense against proposed patch-based attacks and improving robustness of NNs-;<br>+ Implemented face recognition in ROS for a robot-arm environment for a project in assuring safety in Human-Robot collaboration against adversarial attacks;
+  description: What I work with<br>+ Python<br>+ Computer Vision (Object tracking, Face detection) <br>+ Tensorflow/PyTorch<br>+ ROS<br>+ Adversarial attacks on NNs <br> <br>What I work on<br>+ patch-based Adversarial Attacks on End-to-end driving;<br>+ Implemented and improved attacks with PGD which were successful in causing significant errors in driving predictions made by NNs ;<br>+ Developed a defense against proposed patch-based attacks and improving robustness of Neural Networks;<br>+ Implemented face recognition in ROS for a robot-arm environment for a project in assuring safety in Human-Robot collaboration against adversarial attacks;
 
 - title: Student Research Assistant, FZI Forschungszentrum Informatik
   from: 2019, June
   to: 2020, March
-  description: What I work with<br>+ Python<br>+ Semantic Segmenation<br>+ Tensorflow<br>+ ROS<br> What I work on<br>+ Training and evaluation of different ResNet-like CNN experts on disjoint data subsets (e.g. highway expert, city expert, etc.) for semantic segmentation tasks;<br>+ implementation and evaluation of various gating networks which combined the experts to improve semantic segmentation performance
+  description: What I work with<br>+ Python<br>+ Semantic Segmenation<br>+ Tensorflow<br>+ ROS<br> What I work on<br>+ Training and evaluation of different ResNet-like CNN experts on disjoint data subsets (e.g. highway expert, city expert, etc.) for semantic segmentation tasks;<br>+ Implementation and evaluation of various gating networks which combined the experts to improve semantic segmentation performance
     in the scope of a project with Volkswagen;<br>
 
 - title: Python / Data engineering intern, AVL-AST
   from: 2018, February
   to: 2018, September
-  description: What I worked with<br>+ Python<br>+ Spark<br>+ Hadoop<br>+ PostgreSQL<br>+ <br>+ Flask REST APIs<br><br>What I worked on<br>+ worked on a project with Big Data for fleet management.<br>+  developed an app for data visualization <br>+ various tasks in data integration and data conversion
+  description: What I worked with<br>+ Python<br>+ Spark<br>+ PostgreSQL<br>+ Flask REST APIs<br><br> What I worked on<br>+ a project with Big Data for fleet management.<br>+  Developed an app for data visualization <br>+ Various tasks in data integration and data conversion
 
