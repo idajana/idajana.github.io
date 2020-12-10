@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Deep Learning Research Assistant.
 baseurl: "/resume"  # the subpath of your site, e.g. /blog
 url: "idajana.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: idajana/resume
+repository: idajana/idajana.github.io
 
 
 # Build settings
