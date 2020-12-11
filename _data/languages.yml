@@ -1,14 +1,12 @@
 - name: Python
-  color: dark
+  color: danger
 
-- name: SQL
+- name: Tensorflow, PyTorch, Keras
   color: info
 
-- name: Linux
+- name: Linux, ROS
   color: blue
 
-- name: TypeScript
-  color: success
+- name: SQL, Spark, AWS
+  color: dark
 
-- name: Java
-  color: danger

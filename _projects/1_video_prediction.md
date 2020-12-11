@@ -25,7 +25,7 @@ While the VAE models the spatial relations, the Memory Model learns the temporal
 3. Controller (C) Model 
 The Controller (C) is principally the policy that the agent learns. As I was developing only the environment model, the controller is not used in this project.
 
-![Figure 1.](imgs/fig1.png)
+![Figure 1.](https://raw.githubusercontent.com/idajana/generative-video-prediction-models/main/imgs/fig1.png)
 
 Figure 1. World Models architecture
 
@@ -33,32 +33,22 @@ Figure 1. World Models architecture
 
 # Stochastic Video Generation
 There are three models: SVG with Learned Prior, SVG with Fixed Prior and the Baseline. The models exact differnce between models is explained in the papers referenced in the of this document. The paramaters vary slightly, therefore one example is given on how to train the SVG-LP.
-![Figure 2.](imgs/fig2.png)
+![Figure 2.](https://raw.githubusercontent.com/idajana/generative-video-prediction-models/main/imgs/fig2.png)
 
 Figure 2.  SVG-LP at training (left) and inference time (right)
 
 
-```bash
-python svg_models/train_svg_lp.py --params params/.yaml 
-```
-
-All evaluations measure mean SSIM and PSNR on validation data and also generate GIF examples of rollout predictions.#
-
-```bash
-python svg_models/eval_svg_lp.py --params params/svg_lp_eval_params.yaml 
-```
-
 # Results
 The SVG-LP model shows superior performance in situation where there is stochasticity involved e.g. when there are many different futures, it can predict them and choose the correct. On the example below in contrast to SVG-LP, the baseline learned one outcome - in every case it predicts that the object will exit the view space.  The green frames are inputed frames and the blue frames are predicted frames.  
-![Figure 3. Baseline](imgs/gif1.gif)
+![Figure 3. Baseline](https://raw.githubusercontent.com/idajana/generative-video-prediction-models/main/imgs/gif1.gif)
 
 Figure 3. Baseline prediction
 
-![Figure 4. SVG-LP](imgs/gif2.gif)
+![Figure 4. SVG-LP](https://raw.githubusercontent.com/idajana/generative-video-prediction-models/main/imgs/gif2.gif)
 
 Figure 4. SVG-LP prediction
 
-![Figure 5.](imgs/fig3.png)
+![Figure 5.](https://raw.githubusercontent.com/idajana/generative-video-prediction-models/main/imgs/fig3.png)
 Figure 5. Quantitative evaluation of the video prediction models
 
 # References

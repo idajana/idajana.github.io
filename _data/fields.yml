@@ -1,11 +1,11 @@
-- name: Machine Learning
+- name: Deep Learning & Computer Vision
   color: danger
 
-- name: Backend dev.
+- name: Machine Learning
   color: success
 
-- name: DevOps
+- name: Robotics (Control, Motion planning, Sensor Fusion)
   color: info
 
-- name: Frontend
+- name: Data Science
   color: dark
