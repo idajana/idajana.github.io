@@ -21,7 +21,7 @@ In this project,we build a facial keypoint detection system. Facial keypoints in
 
 ![Facial Keypoint Detection](https://raw.githubusercontent.com/idajana/Computer_Vision_Udacity_Nanodegree/main/Project_1_Facial_Keypoint_Detection/images/key_pts_example.png)
 
-#ä Project 2: Image Captioning
+## Project 2: Image Captioning
 In the second project we combine LSTMs and CNNs to make an Image captioning model 
 ![img_capt](https://raw.githubusercontent.com/idajana/Computer_Vision_Udacity_Nanodegree/main/Project_2_Image_Captioning/images/encoder-decoder.png)
 
